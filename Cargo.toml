@@ -14,7 +14,7 @@ debugmozjs = ['mozjs-sys/debugmozjs']
 git = "https://github.com/servo/mozjs"
 
 [dependencies.green]
-git = "https://github.com/alexcrichton/green-rs"
+git = "https://github.com/servo/green-rs"
 
 [dependencies.rustuv]
-git = "https://github.com/alexcrichton/green-rs"
+git = "https://github.com/servo/green-rs"
